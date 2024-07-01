@@ -6,3 +6,4 @@ torch
 transformers
 gunicorn
 boto3
+python-dotenv
